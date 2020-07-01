@@ -6,9 +6,14 @@ This app combines the features of both instagram as well as facebook.
 
 Note: As of now there is no likes, comments and friends feature. Will try to add them in future.
 
-![Screenrecorder-2020-07-01-13-32-18-61](https://user-images.githubusercontent.com/52367289/86219808-57c65a80-bba0-11ea-9181-bd2297e9d40c.gif)
+Download the app - https://drive.google.com/file/d/173FUwkJBLcWJdXzKT6gXDUrWzLhNo8L7/view?usp=sharing
 
-![Screenshot_2020-07-01-13-32-43-012_com abhishek instaBook](https://user-images.githubusercontent.com/52367289/86220277-fce13300-bba0-11ea-9515-096da5d5b25a.jpg)
-![Screenshot_2020-07-01-13-33-07-994_com abhishek instaBook](https://user-images.githubusercontent.com/52367289/86220278-fe126000-bba0-11ea-9410-69bbe41c014b.jpg)
-![Screenshot_2020-07-01-13-33-12-054_com abhishek instaBook](https://user-images.githubusercontent.com/52367289/86220285-0074ba00-bba1-11ea-80ee-247850ff71be.jpg)
+![Screenrecorder-2020-07-01-13-32-18-61](https://user-images.githubusercontent.com/52367289/86220634-7d079880-bba1-11ea-8c3c-c106a2b4cfa5.gif)
+![Screenshot_2020-07-01-13-32-43-012_com abhishek instaBook](https://user-images.githubusercontent.com/52367289/86220640-7ed15c00-bba1-11ea-9285-9ffeb2bf087d.jpg)
+![Screenshot_2020-07-01-13-33-07-994_com abhishek instaBook](https://user-images.githubusercontent.com/52367289/86220641-7ed15c00-bba1-11ea-8196-067ab40c6278.jpg)
+![Screenshot_2020-07-01-13-33-12-054_com abhishek instaBook](https://user-images.githubusercontent.com/52367289/86220646-809b1f80-bba1-11ea-8dd5-bf74e81caead.jpg)
+
+
+
+
 
