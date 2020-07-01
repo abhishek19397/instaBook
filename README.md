@@ -10,11 +10,8 @@ Download the app - https://drive.google.com/file/d/173FUwkJBLcWJdXzKT6gXDUrWzLhN
 
 
 ![Screenrecorder-2020-07-01-13-32-18-61 (1)](https://user-images.githubusercontent.com/52367289/86220963-ea1b2e00-bba1-11ea-8ca8-1b754d207e24.gif)
-
 ![Screenshot_2020-07-01-13-33-07-994_com abhishek instaBook](https://user-images.githubusercontent.com/52367289/86220641-7ed15c00-bba1-11ea-8196-067ab40c6278.jpg)
-
 ![Screenshot_2020-07-01-13-33-12-054_com abhishek instaBook](https://user-images.githubusercontent.com/52367289/86220646-809b1f80-bba1-11ea-8dd5-bf74e81caead.jpg)
-
 ![Screenshot_2020-07-01-13-32-43-012_com abhishek instaBook](https://user-images.githubusercontent.com/52367289/86220640-7ed15c00-bba1-11ea-9285-9ffeb2bf087d.jpg)
 
 
