@@ -4,6 +4,8 @@ Technically we can post texts through stories but I like facebook's method of di
 
 This app combines the features of both instagram as well as facebook.
 
+Tech Stack - React Native, Firebase
+
 Note: As of now there is no likes, comments and friends feature. Will try to add them in future.
 
 Download the app - https://drive.google.com/file/d/173FUwkJBLcWJdXzKT6gXDUrWzLhNo8L7/view?usp=sharing
